@@ -1,1 +1,0 @@
-@"e:\pcode\django\myblog\scripts\python.exe" "e:\pcode\django\myblog\Scripts\markdown_py" %*
